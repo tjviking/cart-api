@@ -31,6 +31,12 @@ $ npm run test
 $ npm run test:cov
 ```
 
+## Internals
+
+It uses internal CRON task, which fetches currency exchange values from network (every 10 minutes) - please be connected to network!
+
+
+
 ## Documentation of endpoints
 
 - navigate to https://127.0.0.1:3000/docs
