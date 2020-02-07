@@ -1,6 +1,6 @@
 ## Description
 
-#Cart API test service for FlipFIT.
+Cart API test service for FlipFIT.
 
 ## Installation
 
@@ -39,7 +39,6 @@ $ npm run test:cov
 ## Stay in touch
 
 - Author - [Tomasz Jaśkowiec](mailto:tjviking@gmail.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
 
 ## License
 
